@@ -2,6 +2,7 @@
     "name":  "riverbraid-network",
     "version":  "1.0.0",
     "scripts":  {
-                    "test":  "node -e \"console.log(\u0027riverbraid-network: Verified\u0027)\""
+                    "test":  "node verify-parked.cjs",
+                    "verify:feature-flow":  "node verify-feature-flow.cjs"
                 }
 }
