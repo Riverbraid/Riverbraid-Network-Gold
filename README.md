@@ -1,0 +1,5 @@
+﻿# Riverbraid-Network-Gold
+This repository is parked.
+## Verification
+`ash
+npm test
